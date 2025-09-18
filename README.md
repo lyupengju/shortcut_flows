@@ -7,5 +7,5 @@ More related training and inference files will be released upon acceptance.
 
 
 <div align=center>
-<img src="[https://github.com/lyupengju/Flare23/blob/main/figures/models.png](https://github.com/lyupengju/shortcut_flows/blob/main/Shortflows%20for%20medical%20image%20translation/assets/results.jpg)"  width="60%">
+<img src="https://github.com/lyupengju/shortcut_flows/blob/main/Shortflows%20for%20medical%20image%20translation/assets/results.jpg"  width="60%">
 </div>
